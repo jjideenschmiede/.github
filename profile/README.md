@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-**Here are some ideas to get you started:**
+**And welcome to our GitHub profile. We at J&J Ideenschmiede GmbH develop interface solutions for the ecommerce sector. You can find many open source projects on our profile. We use golang for most of our projects.**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+You can reach us as follows:
+
+- 📫  How to reach me: [info@jj-ideenschmiede.de](info@jj-ideenschmiede.de)
+- 🦟  Linkedin: [J&J Ideenschmiede GmbH](https://www.linkedin.com/company/70420124)
+- 🐳  Docker Hub: [@jjdevelopment](https://hub.docker.com/u/jjdevelopment)
+- 🐦  Twitter: [@jjideenschmiede](https://twitter.com/jjideenschmiede)
